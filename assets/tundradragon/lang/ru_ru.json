@@ -1,0 +1,23 @@
+{
+  "item.tundradragon.freezerburned_steak": "Перемороженный стейк",
+  "item.tundradragon.tundra_dragon_treat": "Лакомство для ледяного дракона",
+  "item.tundradragon.tundra_dragon_treat.description_0": "§7■ Временно даёт бесконечную ману.",
+  "effect.tundradragon.supercooling": "Сверхохлаждение",
+  "item.tundradragon.infused_ice_crystal": "Насыщенный ледяной кристалл",
+  "item.tundradragon.chilled_porkchop": "Охлаждённая свинина",
+  "item.tundradragon.freezerburned_mutton": "Перемороженная баранина",
+  "item.tundradragon.chilled_chicken": "Охлаждённая курятина",
+  "item.tundradragon.chilled_mutton": "Охлаждённая баранина",
+  "effect.tundradragon.frostbite": "Обморожение",
+  "item.tundradragon.popsicle": "Эскимо из синего льда",
+  "item.tundradragon.popsicle.description_0": "§7■ Снимает эффекты Иссушения и Отравления, а также даёт Поглощение и Регенерацию. Плотный синий лёд, насыщенный драконьей костью и размягчённый до съедобного состояния небольшим добавлением огненного порошка.",
+  "effect.tundradragon.freeze_immunity": "Иммунитет к заморозке",
+  "item.tundradragon.freezerburned_chicken": "Перемороженная курятина",
+  "item.tundradragon.chilled_rabbit": "Охлаждённая крольчатина",
+  "item.tundradragon.freezerburned_rabbit": "Перемороженная крольчатина",
+  "item.tundradragon.chilled_steak": "Охлаждённый стейк",
+  "item.tundradragon.snowy_stew.description_0": "§7■ Даёт Регенерацию. Небрежная смесь мяса и рыхлого снега в съедобной ледяной миске.",
+  "item.tundradragon.freezerburned_porkchop": "Перемороженная свинина",
+  "item.tundradragon.snowy_stew": "Снежная похлёбка",
+  "item.tundradragon.infused_ice_crystal.description_0": "§7■ Охлаждает вас и укрепляет ваши ледяные кости, позволяя некоторое время выдерживать жар и удары."
+}

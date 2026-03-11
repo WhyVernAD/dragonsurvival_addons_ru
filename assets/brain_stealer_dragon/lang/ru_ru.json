@@ -1,0 +1,7 @@
+{
+  "effect.brain_stealer_dragon.grab": "Захват",
+  "effect.brain_stealer_dragon.caught_creature": "Пойманное существо",
+  "effect.brain_stealer_dragon.mind_devouring": "Пожирание разума",
+  "effect.brain_stealer_dragon.mind_devouring_victim": "Жертва пожирания разума",
+  "effect.brain_stealer_dragon.try_grab": "Попытка захвата"
+}
