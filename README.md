@@ -2,6 +2,11 @@
 
 ## Версии
 
+### 1.2.2
+
+- Добавлен перевод [Dragon Rings](https://www.curseforge.com/minecraft/mc-mods/dragon-rings) — by Black Aures
+- Добавлен перевод [Additional Dragons](https://www.curseforge.com/minecraft/mc-mods/additional-dragons-for-ds) — by Psither
+
 ### 1.2.1
 
 - Добавлен перевод [Fairy Dragon](https://www.curseforge.com/minecraft/mc-mods/fairy-dragon-for-ds) — by greenhat0816_43829
@@ -23,8 +28,11 @@
 - [Tundra Dragon](https://legacy.curseforge.com/minecraft/mc-mods/tundra-dragon-dragon-survival-add-on) — by ArteMentzelia
 - [Wing Kirin](https://legacy.curseforge.com/minecraft/mc-mods/wing-kirin) — by timeslowly
 
+<<<<<<< HEAD
 =======
 
+=======
+>>>>>>> 73c0add (Release v1.2.2: add Dragon Rings and Additional Dragons translations)
 ## Важно
 
 Установка всех аддонов сразу не требуется.
