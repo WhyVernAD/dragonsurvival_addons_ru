@@ -28,11 +28,6 @@
 - [Tundra Dragon](https://legacy.curseforge.com/minecraft/mc-mods/tundra-dragon-dragon-survival-add-on) — by ArteMentzelia
 - [Wing Kirin](https://legacy.curseforge.com/minecraft/mc-mods/wing-kirin) — by timeslowly
 
-<<<<<<< HEAD
-=======
-
-=======
->>>>>>> 73c0add (Release v1.2.2: add Dragon Rings and Additional Dragons translations)
 ## Важно
 
 Установка всех аддонов сразу не требуется.
