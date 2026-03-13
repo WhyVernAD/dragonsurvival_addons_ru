@@ -5,7 +5,7 @@
 ### 1.2.2
 
 - Добавлен перевод [Dragon Rings](https://www.curseforge.com/minecraft/mc-mods/dragon-rings) — by Black Aures
-- Добавлен перевод [Additional Dragons](https://www.curseforge.com/minecraft/mc-mods/additional-dragons-for-ds) — by Psither
+- Добавлен перевод [Additional Dragons](https://legacy.curseforge.com/minecraft/mc-mods/additional-dragons) — by Psither
 
 ### 1.2.1
 
